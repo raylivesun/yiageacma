@@ -1,0 +1,36 @@
+1.  **Identify the core request:** The user provided two words: "water" and "coke".
+
+2.  **Recognize the ambiguity:** These are just two nouns. What does the user *want*?
+    *   Comparison? (Water vs. Coke)
+    *   Combination? (Mixing them - unlikely to be a standard drink)
+    *   Separate entities? (Just acknowledging both exist)
+    *   A choice? (Which one should I choose?)
+    *   Information about them? (Properties, history, health effects)
+    *   Something creative? (A story, a poem)
+
+3.  **Prioritize common interpretations:** The most frequent implied request when given two related items is often a comparison or a request for information about both. A choice is also plausible.
+
+4.  **Address the most likely interpretations:**
+    *   **Comparison:** Highlight key differences (health, taste, ingredients, hydration). This is a strong candidate.
+    *   **Information:** Briefly describe each.
+    *   **Choice:** Frame it as a decision based on factors (health, taste, occasion).
+
+5.  **Structure the response:**
+    *   Start by acknowledging the two items.
+    *   Address the likely implied request (comparison/choice) by listing key differentiating factors.
+    *   Use bullet points or distinct paragraphs for clarity.
+    *   Cover major aspects:
+        *   **Nature:** Natural vs. Manufactured/Carbonated Soft Drink
+        *   **Ingredients:** H2O vs. Sugar/Sweeteners, Carbonated Water, Flavorings, Caffeine (often)
+        *   **Taste:** Neutral/Refreshing vs. Sweet, Flavored, Carbonated
+        *   **Health:** Essential for life, hydrating, no calories vs. High sugar/calories (regular), artificial sweeteners (diet), dehydrating (caffeine), potential negative health effects.
+        *   **Purpose/Use:** Hydration, survival vs. Treat, enjoyment, caffeine boost.
+    *   Add a concluding sentence to prompt the user for clarification if the initial assumption was wrong ("What about them are you interested in?"). This handles the ambiguity.
+
+6.  **Refine the language:** Use clear, concise terms. Ensure the comparison points are distinct and easy to understand. Maintain a neutral and informative tone.
+
+7.  **Self-Correction/Improvement:**
+    *   Initial thought: Just list facts about each. Better: Compare them directly, as that's more likely what's implied.
+    *   Initial thought: Assume they want health info. Better: Cover multiple aspects (taste, ingredients, health) for a broader answer.
+    *   Make sure to explicitly mention the key difference: one is essential for life, the other is a beverage choice often considered less healthy.
+    *   Adding the clarifying question at the end is crucial due to the input's brevity.
